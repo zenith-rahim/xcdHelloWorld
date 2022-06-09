@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'xcdHelloWorld'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of xcdHelloWorld. to print the information'
+  s.summary          = 'to print the information'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,14 +18,14 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-    A short description of xcdHelloWorld. to print the information just import and create the object and call Ioprint
+    to print the information just import and create the object and call Ioprint
                        DESC
 
   s.homepage         = 'https://github.com/optomate.io/xcdHelloWorld'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'optomate.io' => 'abdul.rahim@optomate.io' }
-  s.source           = { :git => 'https://github.com/optomate.io/xcdHelloWorld.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/zenith-rahim/xcdHelloWorld.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '13.0'
