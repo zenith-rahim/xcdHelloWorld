@@ -21,10 +21,10 @@ Pod::Spec.new do |s|
     to print the information just import and create the object and call Ioprint
                        DESC
 
-  s.homepage         = 'https://github.com/optomate.io/xcdHelloWorld'
+  s.homepage         = 'https://github.com/zenith-rahim/xcdHelloWorld'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'optomate.io' => 'abdul.rahim@optomate.io' }
+  s.author           = { 'optomate.io' => 'zenith.rahim@gmail.com' }
   s.source           = { :git => 'https://github.com/zenith-rahim/xcdHelloWorld.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
