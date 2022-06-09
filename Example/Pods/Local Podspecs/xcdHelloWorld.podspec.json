@@ -1,0 +1,22 @@
+{
+  "name": "xcdHelloWorld",
+  "version": "0.1.0",
+  "summary": "A short description of xcdHelloWorld.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/optomate.io/xcdHelloWorld",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "optomate.io": "abdul.rahim@optomate.io"
+  },
+  "source": {
+    "git": "https://github.com/optomate.io/xcdHelloWorld.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "xcdHelloWorld/Classes/**/*"
+}

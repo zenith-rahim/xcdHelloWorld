@@ -1,0 +1,6 @@
+framework module xcdHelloWorld {
+  umbrella header "xcdHelloWorld-umbrella.h"
+
+  export *
+  module * { export * }
+}
